@@ -1,2 +1,2 @@
 # Issues
-This is the place to report issues with any version of air, we are here to help!
+This is the place to report issues or request new features - do so [Link text Here](https://link-url-here.org)
